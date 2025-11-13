@@ -1,7 +1,7 @@
 # 🧠 GNS3 Campus Network Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/GNS3/gns3-registry/images/gns3-logo.png" alt="GNS3 Logo" width="150"/>
+  <img src="assets/logogns.png" alt="GNS3 Logo" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/512px-Cisco_logo.svg.png" alt="Cisco Logo" width="200"/>
 </p>
 
