@@ -1,11 +1,11 @@
-# 🧠 GNS3 Campus Network Project
+# 🧠 GNS3 Network Project
 
 <p align="center">
   <img src="assets/logogns.png" alt="GNS3 Logo" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/512px-Cisco_logo.svg.png" alt="Cisco Logo" width="200"/>
 </p>
 
-<h1 align="center">🧠 GNS3 Campus Network Project</h1>
+<h1 align="center">🧠 GNS3 Network Project</h1>
 
 <p align="center">
   <strong>Full network design and simulation using GNS3</strong><br>
