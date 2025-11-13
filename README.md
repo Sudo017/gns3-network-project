@@ -31,9 +31,8 @@ Each team member is responsible for one department, managing its local topology,
 ## 🏗️ Network Structure
 
 **Departments:**
-- 🌐 **Web & Marketing** — Web servers, DMZ, and marketing LAN
-- 🖥️ **Supervision / IT** — Monitoring tools (Zabbix, SNMP, Syslog)
+- 🌐 **Web & Marketing** — Web server, and marketing LAN
+- 🖥️ **Supervision / IT** — Monitoring tools
 - 💾 **Database / Gestion** — Database servers and backups
-- 📁 **Collaboration / Share** — File sharing (NFS/SMB)
+- 📁 **Collaboration / Share** — File sharing (NFS)
 - 🔒 **Internet Gateway** — Firewall, NAT, VPN access
--
