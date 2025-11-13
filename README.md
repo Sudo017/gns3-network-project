@@ -1,7 +1,18 @@
 # 🧠 GNS3 Campus Network Project
 
-![GNS3 Logo](https://upload.wikimedia.org/wikipedia/commons/5/5a/GNS3_logo.png)
-![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/GNS3/gns3-registry/images/gns3-logo.png" alt="GNS3 Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/512px-Cisco_logo.svg.png" alt="Cisco Logo" width="200"/>
+</p>
+
+<h1 align="center">🧠 GNS3 Campus Network Project</h1>
+
+<p align="center">
+  <strong>Full network design and simulation using GNS3</strong><br>
+  Developed as part of a university networking course.
+</p>
+
+---
 
 > **Full network design and simulation using GNS3**  
 > Developed as part of a group project for our university networking course.
